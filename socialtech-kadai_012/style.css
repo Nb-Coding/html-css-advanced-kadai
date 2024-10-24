@@ -889,7 +889,7 @@ index.PC用のスタイル
   #mission-main {
     height: 496px;
     width: 100%;
-    background-image: url("/images/mission/mission-main.png");
+    background-image: url("https://github.com/Nb-Coding/html-css-advanced-kadai/blob/main/socialtech-kadai_012/images/mission/mission-main.png?raw=true");
     background-repeat: no-repeat;
     background-position-y: center;
   }
