@@ -852,7 +852,7 @@ index.PC用のスタイル
     text-decoration: none;
     margin: 0 20px 50px 0;
     display: block;
-    background-image: url("/images/arrow.png");
+    background-image: url("images/arrow.png");
     background-repeat: no-repeat;
     background-position: right top;     /*右上に配置*/
   }
@@ -889,7 +889,7 @@ index.PC用のスタイル
   #mission-main {
     height: 496px;
     width: 100%;
-    background-image: url("https://github.com/Nb-Coding/html-css-advanced-kadai/blob/main/socialtech-kadai_012/images/mission/mission-main.png?raw=true");
+    background-image: url("images/mission/mission-main.png");
     background-repeat: no-repeat;
     background-position-y: center;
   }
@@ -1057,7 +1057,7 @@ index.PC用のスタイル
   #product-main {
     height: 496px;
     width: 100%;
-    background-image: url("/images/product/product-main.png");
+    background-image: url("images/product/product-main.png");
     background-repeat: no-repeat;
     background-position-y: center;
   }
@@ -1150,7 +1150,7 @@ index.PC用のスタイル
   #product-main {
     height: 256px;
     width: 100%;
-    background-image: url("/images/product/product-main.png");
+    background-image: url("images/product/product-main.png");
     background-repeat: no-repeat;
     background-position-y: center;
     background-size: auto 208px;
