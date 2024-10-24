@@ -1222,6 +1222,9 @@ index.PC用のスタイル
     max-width: 980px;
     padding-top: 10px;
   }
+    #cases > h2 {
+    margin-left: 20px;
+  }
   #cases > ul {
     display: block;
     list-style: none;
